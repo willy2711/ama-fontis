@@ -1,6 +1,6 @@
-# Ama - Fontis di Tabanka
+# AMA - Fontis di Tabanka
 
-Página de ONG AMA - Fontis di Tabanka `em construção`
+Página de ONG AMA - Amigos de Meio Ambiente `em construção`
 
 ### Captura de tela inicial
 ![Tela inicial](./src/assets/img/png/print-screen/main-page.png)
